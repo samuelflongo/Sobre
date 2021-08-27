@@ -10,5 +10,5 @@
 - PHP
 - Modelagem de Dados
 
-⚡ Curiosidade sobre mim: sou bancário há 14 anos, formado em Psicologia há 8 anos, tendo atuado por 2 anos, mas pretendo mudar de carreira.
+⚡ Curiosidade sobre mim: sou bancário há 14 anos, formado em Psicologia há 8 anos, tendo atuado por 2 anos.
 
