@@ -7,7 +7,7 @@
 
 🌱 Atualmente estou aprendendo:
 - HTML e CSS
-- PHP
+- PHP (POO)
 - Modelagem de Dados
 
 ⚡ Curiosidade sobre mim: sou bancário há 14 anos, formado em Psicologia há 8 anos, tendo atuado por 2 anos.
